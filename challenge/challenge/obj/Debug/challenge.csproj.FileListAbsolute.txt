@@ -1,0 +1,23 @@
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\challenge\challenge\obj\Debug\challenge.csprojResolveAssemblyReference.cache
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\challenge.dll
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\challenge.pdb
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\zxing.dll
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\zxing.pdb
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\zxing.xml
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\challenge\challenge\obj\Debug\challenge.dll
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\challenge\challenge\obj\Debug\challenge.pdb
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\challenge.dll
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\challenge.pdb
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\zxing.pdb
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\zxing.xml
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\obj\Debug\challenge.csprojResolveAssemblyReference.cache
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\obj\Debug\challenge.dll
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\obj\Debug\challenge.pdb
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\Newtonsoft.Json.dll
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\WebCamApplicationTheLast.dll
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\zxing.presentation.dll
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\Newtonsoft.Json.pdb
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\Newtonsoft.Json.xml
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\WebCamApplicationTheLast.pdb
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\zxing.presentation.pdb
+C:\Users\Siva Krishna\Documents\Visual Studio 2010\Projects\challenge\challenge\bin\zxing.presentation.xml
